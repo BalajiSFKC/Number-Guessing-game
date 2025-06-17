@@ -34,4 +34,4 @@ Incorrect! The number is greater than 50
 ...
 
 ## Project URL
-Number-Guessing-game
+[Number-Guessing-game](https://github.com/BalajiSFKC/Number-Guessing-game)
