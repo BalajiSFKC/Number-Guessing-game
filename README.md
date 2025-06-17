@@ -1,5 +1,4 @@
-## Project URL
-[Number-Guessing-game](https://github.com/BalajiSFKC/Number-Guessing-game)
+https://roadmap.sh/projects/number-guessing-game
 
 ## Number Guessing Game in Java
 
