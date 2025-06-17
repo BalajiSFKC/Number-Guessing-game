@@ -1,3 +1,6 @@
+## Project URL
+[Number-Guessing-game](https://github.com/BalajiSFKC/Number-Guessing-game)
+
 ## Number Guessing Game in Java
 
 This is a simple **Number Guessing Game** built using Java. The game allows users to guess a randomly generated number between 1 and 100, with different difficulty levels that determine the number of chances allowed.
@@ -33,5 +36,4 @@ Enter your guess: 50
 Incorrect! The number is greater than 50
 ...
 
-## Project URL
-[Number-Guessing-game](https://github.com/BalajiSFKC/Number-Guessing-game)
+
