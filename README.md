@@ -32,3 +32,6 @@ Let's start the game!
 Enter your guess: 50
 Incorrect! The number is greater than 50
 ...
+
+## Project URL
+https://github.com/BalajiSFKC/Number-Guessing-game
