@@ -24,7 +24,7 @@ public class GuessingGame{
                 System.out.print("Invalid input");
                 return;
         }
-        System.out.println("NUMBER: "+number);
+        
         int attempts=1;
         while(true){
             System.out.print("Enter your guess: ");
